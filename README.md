@@ -1,0 +1,2 @@
+# InterestingDiscussion
+一些不好发布的思维小实验记录
